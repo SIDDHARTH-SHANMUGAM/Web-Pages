@@ -1,1 +1,1 @@
-# various web pages been practiced
+# practising various web pages using html and css
